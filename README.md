@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @RichardTalented
-- 👀 I’m interested in  Agric Tech,  Fintech and AI for Work site safety. 
-- 💞️ I’m currently committed to simplifing access to resources concerning Agriculture and climate. 
-<!---
-RichardTalented/RichardTalented is passionate about technology. 
+- 👀 I’m interested in web3 and AI for safety. 
+- 💞️ Let's make the world a better place.
